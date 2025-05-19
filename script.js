@@ -1,3 +1,6 @@
+
+
+
 let input = document.querySelector(".input");
 let clearButton = document.querySelector(".clear");
 let equalsButton = document.querySelector(".equals");
